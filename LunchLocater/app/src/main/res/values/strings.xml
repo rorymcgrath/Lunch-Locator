@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lunch Locater</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="get_location">Get Location</string>
+    <string name="find_restaurants">Find Restaurants</string>
+    <!--<string name="google_app_id">id</string>-->
+</resources>

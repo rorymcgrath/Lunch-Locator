@@ -1,0 +1,15 @@
+__start__
+Initial Meeting. Backend has been setup in advance.
+Objective:
+	-1) Create an app that has a button 
+	-2) On button click obtain the users gps coordinates.
+	-3) Pass these coordinates to a google locations api call
+	-4) display the name of the returned locations as a list to the user
+	5) deploy this to a physical phone.
+__end__
+__start__
+Ojections:
+	1) Filter locations returned to have more meaningful data.
+	"Meaningful" here refers to resturants around your current location that are open.
+	2) Save the resturant data returned as a object in java. All data returned from the query will be included in the object.
+__end__
